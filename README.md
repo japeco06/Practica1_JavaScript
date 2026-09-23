@@ -155,3 +155,4 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 10. Indica en el código:
 11. Si puede evitarse el uso de let. Qué hace
 12. Cuántos eventos hay en el código, cuáles son y para qué sirven
+13.
