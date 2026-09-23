@@ -54,7 +54,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    let nombre = "Anita";
    nombre;
    ```
-   ![alt text](image.png)
+   ![alt text](imagenes/image.png)
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
@@ -77,10 +77,10 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
      </body>
    </html>
    ```
-   ![alt text](image-1.png)
+   ![alt text](imagenes/image-1.png)
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
 5. Observa el resultado en la consola del navegador.
-   ![alt text](image-2.png)
+   ![alt text](imagenes/image-2.png)
 
 ## La pagina esta en blanco
 
@@ -90,13 +90,13 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 - Añade una línea que sume dos números y muestre el resultado con `console.log`.
 - Añade otra variable con tu apellido y muestra un saludo completo.
 - Modifica el saludo para que incluya el apellido en mayúsculas. Busca en la consola cómo convertir una cadena a mayúsculas. Para ello usa un literal de cadena (con tu nombre) seguido del operador punto (`.`)
-  ![alt text](image-3.png)
+  ![alt text](imagenes/image-3.png)
 
 - Modifica el archivo para que el saludo se muestre en la página web en lugar de la consola. Usa `document.body.innerHTML` para esto:
   ```js
   document.body.innerHTML = "<h1>¡Hola, " + nombre + "!</h1>";
   ```
-  ![alt text](image-4.png)
+  ![alt text](imagenes/image-4.png)
 - Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
 
 ## parte 5: formulario HTML + JavaScript
@@ -139,7 +139,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    });
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
-   ![alt text](image-5.png)
+   ![alt text](imagenes/image-5.png)
 
 ## Parte 6: Preguntas de reflexión
 
