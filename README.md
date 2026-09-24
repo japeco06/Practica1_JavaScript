@@ -79,7 +79,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
    ![alt text](./imagenes/image-1.png)
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
-   [text](./hola.html)
+   [text](./index.html)
 5. Observa el resultado en la consola del navegador.
    ![alt text](./imagenes/image-2.png)
 
