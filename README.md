@@ -79,6 +79,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
    ![alt text](imagenes/image-1.png)
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
+   [text](hola.html)
 5. Observa el resultado en la consola del navegador.
    ![alt text](imagenes/image-2.png)
 
@@ -140,6 +141,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    ```
 6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
    ![alt text](imagenes/image-5.png)
+   [text](formulario.js)
 
 ## Parte 6: Preguntas de reflexión
 
