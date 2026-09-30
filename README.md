@@ -1,6 +1,6 @@
 # JS desde cero en el navegador... antes que REACT.
 
-El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tu tus datos personales.
+El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tus datos personales.
 
 ## Por qué REACT
 
@@ -83,7 +83,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 5. Observa el resultado en la consola del navegador.
    ![alt text](./imagenes/image-2.png)
 
-## La pagina esta en blanco
+## La página está en blanco
 
 ## Parte 4: Experimenta
 
@@ -100,7 +100,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
   ![alt text](./imagenes/image-4.png)
 - Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
 
-## parte 5: formulario HTML + JavaScript
+## Parte 5: formulario HTML + JavaScript
 
 1. Crea un archivo llamado `formulario.html` en la misma carpeta `00JSyEntorno`.
 2. Crea un archivo llamado `formulario.js` en la misma carpeta `00JSyEntorno`.
@@ -148,24 +148,24 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 1. ¿Qué hace `console.log`?
    Mostrar por consola el texto que elijas
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
-   se puede, si esta declarada con let o con var se hara el cambio y si esta declarada con const dara error
+   Se puede, si está declarada con let o con var se hará el cambio y si está declarada con const dará error
 3. ¿Para qué sirve la consola del navegador en este contexto?
-   para hacer pruebas
+   Para hacer pruebas
 4. Para qué sirve el archivo HTML en este contexto?
    Es la estructura de la web
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
-   para que dos personas puedan trabajar a la vez
+   Para que dos personas puedan trabajar a la vez
 6. Por qué se llama Vanilla JavaScript?
-   porque es la version original sin ninguna libreria
+   Porque es la versión original sin ninguna librería
 7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
-   para proyectos pequeños, y los frameworks para aplicaciones mas grandes
+   Para proyectos pequeños, y los frameworks para aplicaciones más grandes
 8. Cómo se define una función en JS
-   con function
+   Con function
 9. Sobre el código demuestra la diferencia entre let y const
    Con let puedes reasignar y con const no te lo permite
 10. Indica en el código:
     let nombre = "Javier";
 11. Si puede evitarse el uso de let. Qué hace
     si la variable no hace falta que se reasigne
-12. Cuántos eventos hay en el código, cuáles son y para qué sirvenç
+12. Cuántos eventos hay en el código, cuáles son y para qué sirven
     Hay 2 eventos DOMContentLoaded y submit
