@@ -146,26 +146,49 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
+   
    Mostrar por consola el texto que elijas
+   
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+   
    Se puede, si está declarada con let o con var se hará el cambio y si está declarada con const dará error
+   
 3. ¿Para qué sirve la consola del navegador en este contexto?
+   
    Para hacer pruebas
+   
 4. Para qué sirve el archivo HTML en este contexto?
+   
    Es la estructura de la web
+   
 5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+    
    Para que dos personas puedan trabajar a la vez
+   
 6. Por qué se llama Vanilla JavaScript?
+    
    Porque es la versión original sin ninguna librería
+   
 7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+    
    Para proyectos pequeños, y los frameworks para aplicaciones más grandes
+   
 8. Cómo se define una función en JS
+    
    Con function
+   
 9. Sobre el código demuestra la diferencia entre let y const
+    
    Con let puedes reasignar y con const no te lo permite
+   
 10. Indica en el código:
+    
     let nombre = "Javier";
+    
 11. Si puede evitarse el uso de let. Qué hace
+    
     si la variable no hace falta que se reasigne
+    
 12. Cuántos eventos hay en el código, cuáles son y para qué sirven
+    
     Hay 2 eventos DOMContentLoaded y submit
